@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3765"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3767" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-1874.0261"
+     inkscape:cy="865.88027"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5215"
+       inkscape:export-filename="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/PopularMovieStage1/app/src/main/res/drawable-xxhdpi/ic_action_logo.png"
+       inkscape:export-xdpi="9.1099997"
+       inkscape:export-ydpi="9.1099997">
+      <rect
+         rx="234.28568"
+         ry="234.28568"
+         y="-266.81198"
+         x="-1858.7898"
+         height="948.57141"
+         width="948.57141"
+         id="rect2985"
+         style="fill:#ffbf2a;fill-opacity:1;stroke:none;stroke-width:1.50000000000000000;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="accaccacca"
+         inkscape:connector-curvature="0"
+         id="path2987"
+         d="m -1601.7857,-74.423531 c -10.9031,5.509829 -9.6429,35.357142 -9.6429,35.357142 l 0,497.142859 c 0,0 -2.2353,25.11662 6.566,30.89376 8.7611,5.7508 30.8152,-6.23549 30.8152,-6.23549 l 403.4299,-260.08824 c 0,0 13.4004,-9.8782 13.2909,-17.09541 -0.1055,-6.94911 -13.2909,-16.06436 -13.2909,-16.06436 l -392.0776,-248.806374 c 0,0 -26.6231,-21.404311 -39.0906,-15.103887 z"
+         style="fill:#2b0000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

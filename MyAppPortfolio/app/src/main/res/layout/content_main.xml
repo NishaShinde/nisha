@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main"
+    tools:context="projects.nanodegree.developer.android.com.myappportfolio.MainActivity">
+
+    <TextView
+        android:text="@string/title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height"
+        android:gravity="center"
+        android:textColor="#004D40"
+        android:typeface="sans"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:id="@+id/textView" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="20dp">
+        <LinearLayout
+
+            android:layout_width="match_parent"
+
+            android:orientation="vertical"
+            android:layout_height="@dimen/button_height"
+
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+
+            android:id="@+id/linearLayout">
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="@dimen/button_height"
+                android:text="@string/btn_label_spotifyStreamer"
+                android:id="@+id/button1"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:theme="@style/button_style"
+                />
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="@dimen/button_height"
+                android:text="@string/btn_label_scoresApp"
+                android:id="@+id/button2"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:theme="@style/button_style"
+
+                />
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="@dimen/button_height"
+                android:text="@string/btn_label_libraryApp"
+                android:id="@+id/button3"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:theme="@style/button_style"
+                />
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="@dimen/button_height"
+                android:text="@string/btn_label_buildItBigger"
+                android:id="@+id/button4"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:theme="@style/button_style"
+                />
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="70dp"
+                android:text="@string/btn_label_baconReader"
+                android:id="@+id/button5"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:theme="@style/button_style"
+                />
+            <Button
+                android:theme="@style/SpecialButton"
+                android:layout_width="250dp"
+                android:layout_height="@dimen/button_height"
+                android:text="@string/btn_label_capstone"
+                android:id="@+id/button6"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="15dp"
+                android:paddingTop="15dp"
+                android:layout_marginTop="8dp"
+
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
